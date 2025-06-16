@@ -38,7 +38,7 @@ def home():
     </head>
     <body>
         <div class="glow">
-            Successfully Integrated:<br>
+            Welcome to the integration:<br>
             Jenkins | Ansible | Docker | GitHub Webhooks<br>
             Web App Deployed!<br>
             LinkedIn: Jadhav Harshwardhan
