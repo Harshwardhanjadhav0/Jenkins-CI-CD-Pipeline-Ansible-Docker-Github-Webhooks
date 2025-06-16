@@ -40,7 +40,8 @@ def home():
         <div class="glow">
             Successfully Integrated:<br>
             Jenkins | Ansible | Docker<br>
-            Web App Deployed!
+            Web App Deployed
+            LinkedIn: Harshwardhan jadhav!
         </div>
     </body>
     </html>
