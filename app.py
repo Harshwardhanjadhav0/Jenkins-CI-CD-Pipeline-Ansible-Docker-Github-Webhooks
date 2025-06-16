@@ -39,9 +39,9 @@ def home():
     <body>
         <div class="glow">
             Successfully Integrated:<br>
-            Jenkins | Ansible | Docker<br>
-            Web App Deployed
-            LinkedIn: Harshwardhan jadhav!
+            Jenkins | Ansible | Docker | GitHub Webhooks<br>
+            Web App Deployed!<br>
+            LinkedIn: Jadhav Harshwardhan
         </div>
     </body>
     </html>
